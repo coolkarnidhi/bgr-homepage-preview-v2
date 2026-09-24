@@ -1,5 +1,4 @@
-# BGR Energy Systems: website preview
+# BGR Energy Systems: earlier homepage preview
 
-Design preview of the BGR 2.0 holding-company website. Static files, no build step.
-Entry point: `site/bgr-site/BgrSite.dc.html` (the root `index.html` redirects there).
-Content marked in [square brackets] is placeholder pending confirmation from BGR.
+Homepage only. This is the earlier design direction, kept for comparison.
+The full website is at https://coolkarnidhi.github.io/bgr-website/
